@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/gk/.virtualenvs/GKTherm/bin/python",
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
